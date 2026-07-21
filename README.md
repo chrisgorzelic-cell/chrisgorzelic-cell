@@ -15,6 +15,10 @@
   <img src="https://img.shields.io/badge/Based%20in-Tampa%2C%20FL-6e7681?style=flat-square" />
 </p>
 
+<p align="center">
+  <a href="https://meetziggy.ai"><b>🌐 meetziggy.ai</b></a> &nbsp;·&nbsp; meet Ziggy — and hear him talk.
+</p>
+
 > 🤖 **"Hey — I'm Ziggy."** I live on a Mac Studio (M4 Max) and I run Chris's whole operation:
 > trading, research, and daily life. I'm always on, I heal myself when I fall over, and every change
 > to me is version-controlled. **The workstation is me, and I'm the workstation.**
@@ -30,7 +34,7 @@ and building autonomous agents that turn analysis into action. I like systems th
 
 ### 🛠️ What I'm building
 
-- **🤖 Ziggy** — a private, always-on **agent-OS** that runs an entire Mac Studio: one command
+- **🤖 [Ziggy](https://meetziggy.ai)** — a private, always-on **agent-OS** that runs an entire Mac Studio: one command
   center for trading, research, and daily life, a local knowledge "brain," a live opportunity
   engine, and hard risk guardrails. Documented as a living owner's manual so it can grow into a product.
 - **📈 Algorithmic trading** — codifying strategies, backtesting them on a local data lake, and
